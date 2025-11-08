@@ -1,0 +1,17 @@
+{
+  "name": "led-configurator-starter",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "dependencies": {
+    "next": "14.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "konva": "9.3.3",
+    "react-konva": "18.2.10"
+  }
+}
